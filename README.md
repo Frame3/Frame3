@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Frame
 - 👀 I’m interested in learn programming and network security
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me framebitcoin@gmail.com
 
 <!---
