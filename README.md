@@ -1,4 +1,4 @@
-## Olá, eu sou o Frame, programador Node.js
+## I'm Frame, Bitcoin enthusiast | ₿
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frame3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
